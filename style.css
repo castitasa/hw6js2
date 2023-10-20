@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  .choice {
+    width: 25%;
+    margin: 25px auto;
+  }
+  
+  .block .wrapper {
+    width: 22%;
+    padding: 30px;
+    margin: 20px auto;
+    border: 2px solid orange;
+    border-radius: 10%;
+  }
+  .block .wrapper h1 {
+    text-align: center;
+  }
+  
+  .container {
+    width: 95%;
+    margin: 25px auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .container .wrapper {
+    width: 22%;
+    padding: 30px;
+    margin: 20px auto;
+    border: 2px solid orange;
+    border-radius: 10%;
+  }
+  .container .wrapper h1 {
+    text-align: center;
+  }
